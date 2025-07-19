@@ -1,0 +1,3 @@
+[submodule "Vault"]
+	path = Vault
+	url = git@github.com:EllyAster/Vault.git
