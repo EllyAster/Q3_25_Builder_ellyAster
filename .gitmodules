@@ -1,3 +1,9 @@
 [submodule "Vault"]
 	path = Vault
 	url = git@github.com:EllyAster/Vault.git
+[submodule "Escrow"]
+	path = Escrow
+	url = git@github.com:EllyAster/Escrow.git
+[submodule "amm"]
+	path = amm
+	url = git@github.com:EllyAster/amm.git
